@@ -17,3 +17,7 @@ Agradecemos a nuestro maestro Johnny Cubides por su paciencia y orientación en 
 # Diagramas 
 Nota: Aquí podremos oberservar un recopilatorio de los diagramas que paulatinamente el proyecto fue avanzando, fueron sujetos a modificaciones, 
       por tanto en esta sección más que ver un diagrama, notaremos el avance, esfuerzo, y perfeccionamiento de la idea de proyecto. 
+
+Primer Diagrama y diseño Caja Negra
+
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/a4216580-9ff6-4596-8b49-e20a904aff4f)
