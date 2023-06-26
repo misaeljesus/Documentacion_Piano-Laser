@@ -40,6 +40,11 @@ Nota: Aquí podremos oberservar un recopilatorio de los diagramas que paulatinam
 
 # Notas de clase 🧐
 
+                                                      26 abril 2023
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/11139d88-608b-4323-acb5-6775a2348c1d)
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/d550873c-54a8-48cf-8054-3f2c90b101ee)
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/69ac4c4d-95f5-4c88-bbb4-b4ed02a1e138)
+
 
 
 
