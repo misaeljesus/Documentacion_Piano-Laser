@@ -49,10 +49,7 @@ Nota: Aquí podremos oberservar un recopilatorio de los diagramas que paulatinam
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/683e210e-32e5-4d37-934c-1cf86faa8633)
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/4f6f6cbc-6936-410b-a097-973682d1f1fb)
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/b5371f48-d717-4fd2-9bb2-cdb2fe101b92)
-
-
-
-
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/f2f1835d-7839-46d4-ac8a-4344de293a07)
 
 
 
