@@ -51,6 +51,25 @@ Nota: Aquí podremos oberservar un recopilatorio de los diagramas que paulatinam
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/b5371f48-d717-4fd2-9bb2-cdb2fe101b92)
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/f2f1835d-7839-46d4-ac8a-4344de293a07)
 
+                                                      15 de mayo 2023 
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/a2beedcc-091c-4bf8-b230-af3d237c7f60)
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/909c778e-86e3-4cb8-86e0-fd443649515d)
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/ba3b7881-4d2f-4012-859e-ff4585f23a86)
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/1d54c97b-601f-44cc-83e0-7903e7b8aaab)
+
+
+# Esquematicos 
+
+                                                      Primer esquemático
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/48cff56e-1f06-49b9-bdf0-9958b823dea0)
+
+                                                     Esquemático corregido 
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/736b19ac-47e0-4547-983d-f3ff6bbed162)
+
+
+
+
+
 
 
 
