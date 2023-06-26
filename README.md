@@ -18,7 +18,7 @@ Agradecemos a nuestro maestro Johnny Cubides por su paciencia y orientación en 
 Nota: Aquí podremos oberservar un recopilatorio de los diagramas que paulatinamente el proyecto fue avanzando, fueron sujetos a modificaciones, 
       por tanto en esta sección más que ver un diagrama, notaremos el avance, esfuerzo, y perfeccionamiento de la idea de proyecto. 
 
-                                                Primer Diagrama y diseño Caja Negra
+                                                Primer Diagrama y diseño caja negra
 
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/a4216580-9ff6-4596-8b49-e20a904aff4f)
 
@@ -65,6 +65,42 @@ Nota: Aquí podremos oberservar un recopilatorio de los diagramas que paulatinam
 
                                                      Esquemático corregido 
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/736b19ac-47e0-4547-983d-f3ff6bbed162)
+
+                                                      Esquemático Final 
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/cbafcd2d-36ab-4617-aa16-708d9912f430)
+
+
+# PCB
+
+                                                            Diseño PCB
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/0abd23b4-fec6-4644-9278-ff08844e59d0)
+
+
+# Modelado CAD Estructura 
+
+                                                            Base Caja 
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/37ff02df-56ec-4036-b4c6-427d5af6f39a)
+
+                                                        Soporte-Unión Caja
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/e86860af-08a0-4bca-baf0-84655e1e6ad2)
+
+                                                          Caja Superior
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/c07bfcad-13e0-4c1f-bf32-18e2a99034b6)
+
+                                                            Ensamble 
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/fb20b0fe-9324-4831-968d-6b30b4dd19eb)
+
+
+# Referencias 
+
+· Passive Buzzers. (s/f). Raspberrypi.org. Recuperado el 26 de junio de 2023, de https://projects.raspberrypi.org/en/projects/introduction-to-the-pico/9
+· Gallaugher, J. [@profgallaugher]. (2023, febrero 22). Feel the noise on a Raspberry Pi Pico - learn to play .wav and .mp3 files in CircuitPython. Youtube. https://www.youtube.com/watch?v=Lwr8LLvLRb8
+· Raspberry Pi documentation - MicroPython. (s/f). Raspberrypi.com. Recuperado el 26 de junio de 2023, de https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
+· Sound Types. (s/f). Raspberrypi.org. Recuperado el 26 de junio de 2023, de https://projects.raspberrypi.org/en/projects/raspberry-pi-using/4
+
+
+
+
 
 
 
