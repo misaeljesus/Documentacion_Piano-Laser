@@ -45,6 +45,16 @@ Nota: Aquí podremos oberservar un recopilatorio de los diagramas que paulatinam
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/d550873c-54a8-48cf-8054-3f2c90b101ee)
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/69ac4c4d-95f5-4c88-bbb4-b4ed02a1e138)
 
+                                                      8 de mayo 2023
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/683e210e-32e5-4d37-934c-1cf86faa8633)
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/4f6f6cbc-6936-410b-a097-973682d1f1fb)
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/b5371f48-d717-4fd2-9bb2-cdb2fe101b92)
+
+
+
+
+
+
 
 
 
