@@ -25,7 +25,8 @@ Nota: Aquí podremos oberservar un recopilatorio de los diagramas que paulatinam
                                           Segundo Diagrama caja negra y tentativa de materiales
 
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/020067be-1baa-4b07-ac35-63cb16e2b9cc)
-![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/d1f3e7bf-44c9-400e-ace7-48a58!)
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/9730d609-fc2e-4d8d-ae4e-38ed40acbf18)
+
 
                                                 Tercer diagrama caja negra y correcciones 
                                                 
