@@ -1,4 +1,4 @@
-# Piano Laser
+# Piano Laser ⭐
 ¡Sean Bienvenidos al proceso y detalle de la elaboración de un piano laser!
 Proyecto final asignatura de Taller de Electrónica 2023-1 
 Universidad Nacional de Colombia
@@ -37,6 +37,8 @@ Nota: Aquí podremos oberservar un recopilatorio de los diagramas que paulatinam
                                                 Diagrama de flujo del dispositivo
 
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/9049fe9c-aff5-418c-a601-19aea8699edf)
+
+# Notas de clase 🧐
 
 
 
