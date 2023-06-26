@@ -36,7 +36,8 @@ Nota: Aquí podremos oberservar un recopilatorio de los diagramas que paulatinam
 
                                                 Diagrama de flujo del dispositivo
 
-![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/e4b6800c-4cf5-4bc3-a43c-d9f1aaa48702)
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/9049fe9c-aff5-418c-a601-19aea8699edf)
+
 
 
 
