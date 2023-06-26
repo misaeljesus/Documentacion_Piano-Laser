@@ -25,11 +25,18 @@ Nota: Aquí podremos oberservar un recopilatorio de los diagramas que paulatinam
                                           Segundo Diagrama caja negra y tentativa de materiales
 
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/020067be-1baa-4b07-ac35-63cb16e2b9cc)
-![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/d1f3e7bf-44c9-400e-ace7-48a5825760dd)
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/d1f3e7bf-44c9-400e-ace7-48a58![image]
 
                                                 Tercer diagrama caja negra y correcciones 
                                                 
 ![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/23d1df7e-52a5-4733-b6ee-a6c006916df2)
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/1ae4b010-bf91-47c8-9a05-78d8f132eaf1)
+
+                                                Diagrama de flujo del dispositivo
+
+![image](https://github.com/misaeljesus/Documentacion_Piano-Laser/assets/79709849/e4b6800c-4cf5-4bc3-a43c-d9f1aaa48702)
+
+
 
 
 
